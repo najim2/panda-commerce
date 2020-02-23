@@ -18,3 +18,39 @@
     border-radius: 8px;
     cursor: pointer;
 }
+.cat-1, .cat-2, .cat-3{
+    padding: 10px 40px;
+    border-radius: 10px;
+}
+.cat-1{
+    background-color: #FF9C35;
+}
+.cat-2{
+    background-color: #FF589B;
+}
+.cat-3{
+    background-color: #4289FF;
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 80px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    border-top: none;
+    background-color: white;
+}
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: gray;
+}
+footer p{
+    text-align: center;
+}
